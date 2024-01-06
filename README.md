@@ -16,7 +16,7 @@ I'm on a journey to learn more about AI and find the domain that suits me the mo
 
 ## 🤝 Collaboration
 
-I'm eager to connect and collaborate with other enthusiasts who share a passion for AI and technology. I firmly believe in the power of collaboration and am excited to both learn from others and contribute to meaningful projects. In 2023, I had the chance to contribute to a project that involved donating gifts and school supplies to children in foster care and emergency shelters. If you’re interested, feel free to check it out and collaborate with them at [donategifts](https://github.com/donategifts/donategifts).
+I'm eager to connect and collaborate with other enthusiasts who share a passion for AI and technology. I firmly believe in the power of collaboration and am excited to both learn from others and contribute to meaningful projects. In 2023, I had the oppoturnity to contribute to a project that involved donating gifts and school supplies to children in foster care and emergency shelters. If you’re interested, feel free to check it out and collaborate with them at [donategifts](https://github.com/donategifts/donategifts).
 
 ## 🔥 My Profile Stats
 
