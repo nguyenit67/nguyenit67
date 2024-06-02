@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I’m an AI major student, exploring fields like Computer Vision (CV), Natural Language Processing (NLP), General AI (GenAI), Machine Learning (ML), and Data Science. Currently, I’m delving into NLP, but I’m also keen on CV, Data Science, ML, Speech Processing, and developing software and solutions using AI and technology. Let’s connect and innovate together!
+I’m an AI major student, exploring fields like Natural Language Processing (NLP), Computer Vision (CV), General AI (GenAI), Machine Learning (ML), and Data Science. Currently, I’m delving into NLP, but I’m also keen on CV, Data Science, ML, Speech Processing, and developing software and solutions using AI and technology. Let’s connect and innovate together!
 
 ## 🏓 Interests
 
