@@ -3,9 +3,9 @@ I am a high-energy AI Engineer fueled by a deep passion for building impactful p
 
 
 ## Technical Toolbox
-- AI/ML: LLM Fine-tuning, RAG (Retrieval-Augmented Generation), NLP, Deep Learning, Algorithms.
-- Frameworks & Libraries: PyTorch, Transformers (Hugging Face), PEFT, Unsloth, FastAPI, LangChain, TensorFlow, scikit-learn.
-- Full-stack & DevOps: Python, JavaScript, React.js, Next.js, PostgreSQL, MongoDB, Docker, AWS.
+- AI/ML: LLM Fine-tuning, NLP, RAG, Embedding, Vector search, FAISS, Deep Learning, Algorithms
+- Frameworks & Libraries: PyTorch, Transformers (Hugging Face), PEFT, Unsloth, FastAPI, LangChain, TensorFlow, scikit-learn
+- Full-stack & DevOps: Python, JavaScript, React.js, Next.js, PostgreSQL, MongoDB, Git, Docker, AWS
 
 
 ## Projects
